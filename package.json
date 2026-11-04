@@ -1,0 +1,12 @@
+{
+  "name": "kung-fu-duel",
+  "version": "1.0.0",
+  "description": "Kung Fu Duel - 2D fighting game with LAN and online multiplayer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
